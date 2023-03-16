@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Titan One', cursive;
+}
+
+body{
+	font-family: 'Indie Flower', cursive ;
+	background-color: black;
+	text-align: center;
+	font-size: 25px;
+	color: yellow;
+
+}
+
+div{
+	scroll-margin-top: 100px;
+}
+
+.card {
+	width: 100%;
+	color: black;
+}
+
+.nav-bg{
+	background-image: url("./images/nav_banner.jpg");
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.fa-brands{
+	margin: 10px;
+	color: red;
+	border: 2.5px solid yellow;
+	border-radius: 100%;
+	background-color: white;
+}
+
+.card-body{
+	color:yellow;
+}
+
+.main-bg{
+	background-image: url("./images/main_bg.jpg");
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+  	background-attachment: fixed;
+}
+
+#greetings{
+	margin-top: 37.5vh;
+}
+
+#company-logo{
+	border: 5px solid yellow;
+	border-radius: 100%;
+	background-color: 	darkorange;
+}
+
+#tool-img{
+	border: 5px solid yellow;
+	border-radius: 100%;
+	background-color: black;
+}
+
+
